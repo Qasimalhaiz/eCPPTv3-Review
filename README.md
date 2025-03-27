@@ -51,7 +51,7 @@ Given the role of brute-forcing in the exam, I found the provided wordlists inef
 ## **Essential Tools for the Exam**
 
 ### **Active Directory Enumeration & Attacks**
-- `kerbrute`, `crackmapexec`, `evil-winrm` (though it did not function correctly)
+- `kerbrute`, `crackmapexec`, `evil-winrm` 
 - `xfreerdp`, `bloodhound-python`, `smbclient`, `rpcclient`
 
 ### **Windows Built-in & Enumeration Tools**
