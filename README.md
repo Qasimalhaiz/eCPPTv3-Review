@@ -78,17 +78,18 @@ Since the **INE course did not provide sufficient depth for Active Directory exp
 
 ### **HTB Academy Courses:**
 - [Introduction to Active Directory](https://academy.hackthebox.com/course/preview/introduction-to-active-directory)
-- [Active Directory Enumeration & Attacks](https://academy.hackthebox.com/course/preview/active-directory-enumeration-attacks)
+- [Active Directory Enumeration & Attacks](https://academy.hackthebox.com/course/preview/active-directory-enumeration--attacks)
 - [Hacking WordPress](https://academy.hackthebox.com/course/preview/hacking-wordpress)
 
 ### **HTB Labs:**
 - Completed **all easy machines** in the **Active Directory 101 track**
 
 ### **TryHackMe (THM):**
-- **Attacking Kerberos** 
-- **Breaching Active Directory**
-- **Exploiting Active Directory** 
-- **Linux & Windows Privilege Escalation** 
+- [Attacking Kerberos](https://tryhackme.com/room/attackingkerberos)
+- [Breaching Active Directory](https://tryhackme.com/room/breachingad)
+- [Exploiting Active Directory](https://tryhackme.com/room/exploitingad)
+- [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20)
 ---
 ## **Key Exam Strategies and Lessons Learned**
 
@@ -105,13 +106,12 @@ Since the **INE course did not provide sufficient depth for Active Directory exp
 
 For those considering the eCPPTv3 certification, here’s my assessment:
 
-**Ideal for students or aspiring penetration testers** who cannot afford **OSCP** but want to demonstrate their **Active Directory expertise**.
-**A solid certification** for those seeking a challenge that is **less CTF-like** and closer to real-world scenarios.
-**Needs improvements**, particularly in the inclusion of **pivoting and reporting**, to enhance its industry relevance.
-**INE’s training does not fully cover AD exploitation**, so additional self-study is required.
+- **Ideal for students or aspiring penetration testers** who cannot afford **OSCP** but want to demonstrate their **Active Directory expertise**.
+- **A solid certification** for those seeking a challenge that is **less CTF-like** and closer to real-world scenarios.
+- **Needs improvements**, particularly in the inclusion of **pivoting and reporting**, to enhance its industry relevance.
+- **INE’s training does not fully cover AD exploitation**, so additional self-study is required.
 
 Would I recommend it? **Yes, with the right expectations.** If you plan to take the eCPPTv3, focus on **Active Directory exploitation, enumeration techniques, and structured note-taking**.
 
 ---
-I’d love to hear from others who have taken the **eCPPTv3**! Feel free to share your insights or suggestions in the comments.
 
