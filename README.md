@@ -1,5 +1,8 @@
 # eCPPTv3-Review
 
+![eCPPTv3-1](https://github.com/user-attachments/assets/b53e3ede-8b8a-4f21-a91e-8284f5e917bd)
+
+
 **Review on eCPPTv3: My Path to Becoming a Certified Professional Penetration Tester**
 
 On March 26th, I achieved the **eLearnSecurity Certified Professional Penetration Tester (eCPPTv3)** certification, a milestone in my cybersecurity journey. This certification process was both challenging and insightful, with a strong focus on **Active Directory (AD) exploitation**. While the experience did not fully align with my initial expectations, it provided valuable lessons and opportunities for growth.
